@@ -1,6 +1,6 @@
 ### Olá! Eu sou o João, seja bem-vindo ao meu perfil 👋
 
-- 🔭 Atualmente sou etsagiário de desenvolvimento Full-Stack
+- 🔭 Atualmente sou estagiário de desenvolvimento Full-Stack
 - 🎯 Estudando desenvolvimento Front-End
 - 📫 Entre em contato: mrjoao16@gmail.com
 
