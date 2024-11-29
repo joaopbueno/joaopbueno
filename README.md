@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João, seja bem-vindo ao meu perfil 👋
 
-- 🔭 Atualmente sou estagiário de desenvolvimento Full-Stack
-- 🎯 Estudando desenvolvimento Front-End
+- 🔭 Atualmente sou Analista de Desenvolvimento na TOTVS
+- 🎯 Estudando desenvolvimento mobile
 - 📫 Entre em contato: mrjoao16@gmail.com
 
 
@@ -11,14 +11,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopbueno&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Joao-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="João-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Joao-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">  
+  <img align="center" alt="João-iOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg">
+<img align="center" alt="João-Swift" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg">
+<img align="center" alt="João-Kotlin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+<img align="center" alt="João-CSharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="João-ASPNET" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg">
+
   
 </div>
   
